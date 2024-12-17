@@ -48,6 +48,7 @@ If you like this repo, give us a ⭐
 - [Datacamp Blog](https://www.datacamp.com/blog)
 - [Papers with code](https://paperswithcode.com/)
 - [Aman.ai-exploring the art of AI](https://aman.ai/)
+- [Applied AI Blogs](https://www.appliedaicourse.com/blog/)
 
 ### Projects
 
